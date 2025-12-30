@@ -1,4 +1,3 @@
-import java.util.Arrays;
 //4ms
 public class Solution {
     public static void main(String[] args) {
