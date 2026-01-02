@@ -8,4 +8,5 @@
 |463|[Island perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/463/Solution.java)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](https://github.com/m1tra/leetcode/tree/main/tasks/easy/455)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/448/Solution2.java)|Easy|
+|66|[Plus one](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/66/Solution.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/11/Solution.java)|Medium|
