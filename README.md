@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|1975|[Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1975/Solution.java)|Medium|
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/hard/1411/Solution.java)|Hard|
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1390/Solution.java)|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/961/Solution.java)|Easy|

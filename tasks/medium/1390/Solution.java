@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-//89ms
+//60ms
 //time o(m*sqrt(n)) m-len nums n-max(nums[i]) space o(1)
 public class Solution {
     public static void main(String[] args) {
@@ -26,7 +26,7 @@ public class Solution {
         int cnt = n + 1;
         set.add(n);
         set.add(1);
-        for (int i = 2; i <= (int) (Math.sqrt(n) + 1); i++) {
+        for (int i = 2; i*i <= n; i++) {
             if (set.size() > 4) {
                 break;
             }
