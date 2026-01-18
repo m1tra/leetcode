@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |3453|[Separate Squares I](https://leetcode.com/problems/separate-squares-i/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/3453/Solution.java)|Medium|
+|3047|[Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/3047/Solution.java)|Medium|
 |1975|[Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1975/Solution.java)|Medium|
 |1458|[Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/hard/1458/Solution.java)|Hard|
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/hard/1411/Solution.java)|Hard|
