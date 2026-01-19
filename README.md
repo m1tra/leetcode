@@ -10,6 +10,7 @@
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/hard/1411/Solution.java)|Hard|
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1390/Solution.java)|Medium|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1339/Solution.java)|Medium|
+|1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1292/Solution.java)|Medium|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1161/Solution.java)|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/961/Solution.java)|Easy|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/888/Solution.java)|Easy|
