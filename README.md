@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |3453|[Separate Squares I](https://leetcode.com/problems/separate-squares-i/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/3453/Solution.java)|Medium|
+|3315|[Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/3315/Solution.java)|Medium|
 |3314|[Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/easy/3314/Solution.java)|Easy|
 |3047|[Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/3047/Solution.java)|Medium|
 |1975|[Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)|[Java](https://github.com/m1tra/leetcode/blob/main/tasks/medium/1975/Solution.java)|Medium|
